@@ -1,2 +1,2 @@
 # Go_DiscordBot
-All the making of golang discord bots
+The making of golang discord bots
